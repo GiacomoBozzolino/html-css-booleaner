@@ -16,18 +16,17 @@ header{
 #logo{
     height: 70px;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 12%;
     margin-top: 70px;
     
+  
 }
 /* FINE CLASSI HEADER */
 
-#contenitore{
-    width: 60%;
-    margin-left: 600px;
-   
-   
-    
+.contenitore{
+  width: 75%;
+  margin: 0 auto;
+  
 }
 /* CLASSI MAIN */
 #contenitore{
@@ -58,8 +57,8 @@ p{
     padding-bottom: 30px;
 }
 .lista{
-    padding-left: 20px;
-    padding-bottom: 30px;
+  
+    padding-bottom: 30px
 }
 
 .evidenziatore{
@@ -97,7 +96,7 @@ thead{
     font-size: 20px;
     font-weight: bold;
     padding-top: 10px;
-    padding-left: 5px;
+   
     margin-left: 5px;
    
 }
@@ -109,7 +108,7 @@ thead{
     font-size: 20px;
     font-weight: bold;
     padding-top: 10px;
-    padding-left: 5px;
+   
     margin-left: 5px;
 }
 /* FINE CLASSI FOOTER */
