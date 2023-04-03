@@ -20,5 +20,17 @@ header{
 }
 /* FINE CLASSI HEADER */
 /* CLASSI MAIN */
+#sottotitolo-grigio{
+    color: gray;
+    font-size: 20px;
+}
+#data{
+    color: gray;
+    font-size: 10px;
+}
 
+
+#autore{
+    color: rgb(99, 99, 255);
+}
 /* FINE CLASSI MAIN */
