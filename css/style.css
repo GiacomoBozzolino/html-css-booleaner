@@ -1,8 +1,8 @@
- /* *{
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
- }  */
+ }  
 
 /* CLASSI HEADER*/
 header{
@@ -52,5 +52,23 @@ p{
     padding-bottom: 30px;
 }
 /* INZIO CLASSI TABELLA */
+table{
+    text-align: left;   
+}
+th{
+    color: white;
+}
+ 
 
+thead{
+    background-color: dodgerblue;
+}
+  .riga-dispari{
+    background-color: lightblue;
+    height: 70px;
+  }
+
+  .colonna{
+    width: 20%;
+  }
 /* FINE CLASSI MAIN */
