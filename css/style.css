@@ -9,6 +9,7 @@ header{
     background-image:url(../img/pattern.png);
     background-color: dodgerblue;
     height: 150px;
+   background-size: 55%;
    
 }
 
@@ -25,9 +26,10 @@ header{
     margin-left: 5px;
     padding-left: 5px;
 }
-#sottotitolo-grigio{
+.sottotitolo-grigio{
     color: gray;
     font-size: 20px;
+    font-weight: bold;
 }
 #data{
     color: gray;
@@ -78,3 +80,28 @@ thead{
   
 }
 /* FINE CLASSI MAIN */
+/* INIZIO CLASSI FOOTER */
+#pubblicità-1{
+    background-image:url(../img/monitor.jpg);
+    height: 210px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 5px;
+   
+}
+#pubblicità-2{
+    background-image:url(../img/graph.jpg);
+    height: 210px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+/* FINE CLASSI FOOTER */
