@@ -8,11 +8,14 @@
 header{
     background-image:url(../img/pattern.png);
     background-color: dodgerblue;
-    height: 100px;
+    height: 150px;
 }
 
 #logo{
-    width: auto;
-    height: 50px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-top: 60px;
+    
 }
 /* FINE CLASSI HEADER */
