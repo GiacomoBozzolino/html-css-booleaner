@@ -60,6 +60,7 @@ p{
 /* INZIO CLASSI TABELLA */
 table{
     text-align: left;   
+    border-collapse: collapse;
 }
 
 th{
