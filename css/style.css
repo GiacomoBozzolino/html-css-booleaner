@@ -51,24 +51,30 @@ p{
     padding-left: 20px;
     padding-bottom: 30px;
 }
+
+.evidenziatore{
+    background-color: yellow;
+}
 /* INZIO CLASSI TABELLA */
 table{
     text-align: left;   
 }
+
 th{
     color: white;
 }
- 
 
 thead{
     background-color: dodgerblue;
 }
-  .riga-dispari{
+
+.riga-dispari{
     background-color: lightblue;
     height: 70px;
-  }
+}
 
-  .colonna{
+.colonna{
     width: 20%;
-  }
+  
+}
 /* FINE CLASSI MAIN */
