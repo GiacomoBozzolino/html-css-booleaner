@@ -15,9 +15,8 @@ header{
 
 #logo{
     height: 70px;
-    margin-top: 10px;
     margin-left: 10px;
-    margin-top: 70px;
+    margin-top: 80px;
     
 }
 /* FINE CLASSI HEADER */
@@ -25,6 +24,11 @@ header{
 #contenitore{
     margin-left: 5px;
     padding-left: 5px;
+}
+
+h1{
+    font-size: 30px;
+    line-height: 1.6;
 }
 .sottotitolo-grigio{
     color: gray;
